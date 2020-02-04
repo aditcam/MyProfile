@@ -1,0 +1,54 @@
+.header,body,li
+{
+    margin:20px;
+    padding:5px;
+}
+
+#mypic{
+    max-height: 125px;
+    max-width: 125px;
+    border-radius: 50%;
+    position: absolute;
+    left: 80%;
+}
+img
+{
+    max-width: 80px;
+    max-height:80px;
+    border-radius: 15%;
+}
+
+#Address, #ContactDetails
+{
+    margin: 10px;
+}
+#Address
+{
+    margin-bottom: -10px;
+}
+#ContactDetails 
+{
+    margin-top: -10px;
+}
+h4{
+    background-color:teal;
+    padding:5px;
+    
+}
+.header1,.header2,.header3{
+  background:rgb(19, 53, 65);
+}
+ul{
+    padding: 5px;
+    margin: 5px;
+}
+body
+{
+    color:white;
+    background-color: black;
+}
+hr{
+    background-color: white;
+    height: 1px;
+   
+}
